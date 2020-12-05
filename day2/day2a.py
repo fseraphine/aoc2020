@@ -1,4 +1,6 @@
-import re
+#!/usr/bin/python
+
+# import re
 
 pattern = re.compile('(\d+)-(\d+) (\w): (\w+)\n')
 
